@@ -6,5 +6,5 @@ Trying to learn Haskell and its OpenGL functions by creating various pretty grap
 
 ```sh
 cabal sandbox init && cabal install -j
-.cabal-sandbox/bin/Graph
+.cabal-sandbox/bin/opengl-graphing
 ```
